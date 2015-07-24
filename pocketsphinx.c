@@ -1,5 +1,4 @@
 
-#include <stdio.h>
 #include "pocketsphinx.h"
 #define MODELDIR "/usr/local/Cellar/cmu-pocketsphinx/HEAD/share/pocketsphinx/model"
 
